@@ -1,5 +1,8 @@
 # PlateVision: Automatic License Plate Detection Project (ANPR)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-green.svg)](https://www.python.org/downloads/release/python-370/)
+
 **Please contact me for source files** 
 
 ## Overview
