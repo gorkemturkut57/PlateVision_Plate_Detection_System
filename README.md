@@ -1,13 +1,13 @@
 # Automatic License Plate Detection Project ANPR
 ![License Plate Recognition](examples/ANPR.webp)
 
-**Please contact me for source files** 
-
 ## Overview
 
 This project focuses on developing a comprehensive parking management system that utilizes deep learning and machine learning techniques to detect and read vehicle license plates. The system is capable of processing real-time video streams from parking lot cameras using RTSP or from the computer's own camera, recording entry and exit times of vehicles into a database.
 
 The main goal of this project is to automate the process of monitoring vehicle movements in a parking lot, providing a seamless and efficient way to manage parking spaces and track vehicle activities.
+
+**Please contact me for source files** 
 
 ## Table of Contents
 
